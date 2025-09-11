@@ -1,1 +1,1 @@
-# Moved to https://github.com/Open-JDBC-Proxy/ojp
+# Moved to https://github.com/Open-J-Proxy/ojp
